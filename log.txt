@@ -1,0 +1,1 @@
+INSERT INTO `game_list` (`id`,`name`,`code`,`type`,`provider_id`,`provider_name`,`lang_code`,`status`,`created`,`img`) VALUES (NULL,'Folsom Prison','NLC-folsomprison','1','33','QS','G00100','1','2022-07-16 22:58:53','abc.jpg'); 
