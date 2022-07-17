@@ -1,0 +1,8 @@
+TY  - THES
+AB  -weqwe 
+AU  - we
+DO  - we
+T1  -1 
+UR  -2 
+ER  - 3
+             
