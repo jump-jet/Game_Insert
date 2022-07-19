@@ -1,0 +1,2 @@
+INSERT INTO `game_list` (`id`,`name`,`code`,`type`,`provider_id`,`provider_name`,`lang_code`,`status`,`created`,`img`) VALUES (NULL,'Flip Royale','QS-fliproyale','1','33','QS','G00100','1','2022-07-19 13:19:51','abc.jpg'); 
+INSERT INTO `game_list` (`id`,`name`,`code`,`type`,`provider_id`,`provider_name`,`lang_code`,`status`,`created`,`img`) VALUES (NULL,'Folsom Prison','NLC-folsomprison','1','33','QS','G00100','1','2022-07-19 13:19:51','abc.jpg'); 
