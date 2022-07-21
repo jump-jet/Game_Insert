@@ -18,9 +18,7 @@ df_lang = pd.DataFrame(df_lang)
 
 table = '`game_list`'
 type_ = '1'
-lang_code = 'G00100'
 status = '1'
-a = "` ( `"
 
 
 with open("game.txt","w") as f:
