@@ -1,0 +1,3 @@
+- BBIN provider not found in dis88 provider family then output wont print BBIN 
+- 如果provider 大小写就不会print到那个provider [JOKER , Joker]
+- Dynamic Game image path
